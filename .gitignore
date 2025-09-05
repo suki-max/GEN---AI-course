@@ -1,0 +1,35 @@
+# Model weights and checkpoints
+*.bin
+*.pt
+*.h5
+*.ckpt
+*.onnx
+
+# Hugging Face cache
+.huggingface/
+~/.cache/
+
+# Checkpoints
+checkpoint/
+checkpoints/
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large data
+*.csv
+*.tsv
+*.json
+*.pkl
+*.npz
+*.npy
+
+# Logs
+*.log
