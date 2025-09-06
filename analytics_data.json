@@ -1,0 +1,44 @@
+{
+  "total_queries": 10,
+  "avg_satisfaction": 3.7,
+  "topics": [
+    {
+      "topic": 0,
+      "words": [
+        "password",
+        "reset",
+        "weather",
+        "account"
+      ]
+    },
+    {
+      "topic": 1,
+      "words": [
+        "account",
+        "password",
+        "weather",
+        "reset"
+      ]
+    },
+    {
+      "topic": 2,
+      "words": [
+        "weather",
+        "password",
+        "account",
+        "reset"
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 5,
+    "2": 3,
+    "1": 2
+  },
+  "satisfaction_counts": {
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 2
+  }
+}
